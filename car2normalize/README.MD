@@ -1,0 +1,1 @@
+Car data to normalize for assignment
